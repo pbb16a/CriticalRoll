@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="clicksTotal">0</integer>
+    <integer name="clicks1">0</integer>
+    <integer name="clicks2">0</integer>
+    <integer name="clicks3">0</integer>
+    <integer name="clicks4">0</integer>
+    <integer name="clicks5">0</integer>
+    <integer name="clicks6">0</integer>
+    <integer name="clicks7">0</integer>
+    <integer name="clicks8">0</integer>
+    <integer name="clicks9">0</integer>
+    <integer name="clicks10">0</integer>
+    <integer name="clicks11">0</integer>
+    <integer name="clicks12">0</integer>
+    <integer name="clicks13">0</integer>
+    <integer name="clicks14">0</integer>
+    <integer name="clicks15">0</integer>
+    <integer name="clicks16">0</integer>
+    <integer name="clicks17">0</integer>
+    <integer name="clicks18">0</integer>
+    <integer name="clicks19">0</integer>
+    <integer name="clicks20">0</integer>
+</resources>

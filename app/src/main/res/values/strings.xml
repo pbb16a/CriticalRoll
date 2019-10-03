@@ -24,4 +24,26 @@
     <string name="hit">Critical Hit!</string>
     <string name="blank"> </string>
     <string name="howto">Tap the die to roll !</string>
+    <string name="timesTotal">Total rolls: 0</string>
+    <string name="times1">1\'s rolled: 0</string>
+    <string name="times2">2\'s rolled: 0</string>
+    <string name="times3">3\'s rolled: 0</string>
+    <string name="times4">4\'s rolled: 0</string>
+    <string name="times5">5\'s rolled: 0</string>
+    <string name="times6">6\'s rolled: 0</string>
+    <string name="times7">7\'s rolled: 0</string>
+    <string name="times8">8\'s rolled: 0</string>
+    <string name="times9">9\'s rolled: 0</string>
+    <string name="times10">10\'s rolled: 0</string>
+    <string name="times11">11\'s rolled: 0</string>
+    <string name="times12">12\'s rolled: 0</string>
+    <string name="times13">13\'s rolled: 0</string>
+    <string name="times14">14\'s rolled: 0</string>
+    <string name="times15">15\'s rolled: 0</string>
+    <string name="times16">16\'s rolled: 0</string>
+    <string name="times17">17\'s rolled: 0</string>
+    <string name="times18">18\'s rolled: 0</string>
+    <string name="times19">19\'s rolled: 0</string>
+    <string name="times20">20\'s rolled: 0</string>
+    <string name="shared_prefs_key">Critical Roll</string>
 </resources>
